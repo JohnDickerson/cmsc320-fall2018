@@ -18,7 +18,7 @@ collaboration for your class project, or for other classes.
 #### Just Cloning the Class Repository
 You don't need a GitHub account for just cloning the class repository. From the commandline, just do:
 
-`git clone https://github.com/umddb/cmsc320-fall2018.git`
+`git clone https://github.com/JohnDickerson/cmsc320-fall2018`
 
 You can do `git pull` (from within the `cmsc320-fall2018` directory) to fetch the newly added material. 
 
@@ -34,7 +34,7 @@ Repositories hosted on github for free accounts are public; however, you can eas
     - Go to Profile: https://github.com/settings/profile, and SSH Keys (or directly: https://github.com/settings/ssh)
     - Add SSH Key
 - Clone the class repository:
-    - In Terminal: `git clone git@github.com:umddb/cmsc320-fall2018.git`
+    - In Terminal: `git clone https://github.com/JohnDickerson/cmsc320-fall2018.git`
     - The master branch should be checked out in a new directory 
 - Familiarize yourself with the basic git commands
     - At a minimum, you would need to know: `clone`, `add`, `commit`, `push`, `pull`, `status`
