@@ -2,9 +2,9 @@
 
 Posted: October 29, 2018
 
-Last Updated: October 29, 2018
+Last Updated: November 12, 2018
 
-Due: November 19, 2018
+Due: <s>November 19, 2018</s> November 28, 2018
 
 ## Part 1: Regression analysis of Gapminder data
 
@@ -86,7 +86,7 @@ Based on this plot, consider the following questions.
 
 **Question 12**: <em>On average, by how much does life expectancy increase each year for each continent? (Provide code to answer this question by extracting relevant estimates from model fit)</em>
 
-**Exercise 7**: <em> Perform an F-test that compares how well two models fit your data: (a) the linear regression models from Exercise 2 (only including year as a covariate) and (b) Exercise 6 (including interaction between year and continent).</em>
+**Exercise 7**: <strong>THIS EXERCISE AND QUESTION 13 BELOW COUNT AS +5 POINTS EXTRA CREDIT.</strong> <em> Perform an F-test that compares how well two models fit your data: (a) the linear regression models from Exercise 2 (only including year as a covariate) and (b) Exercise 6 (including interaction between year and continent).</em>
 
 **Question 13**: <em>Is the interaction model significantly better than the year-only model? Why?</em>
 
